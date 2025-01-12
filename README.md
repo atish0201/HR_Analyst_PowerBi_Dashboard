@@ -19,7 +19,7 @@ The dashboard provides actionable insights for HR teams to optimize employee ret
    - Attrition rate: **14%**
 2. **Demographic Trends**:
    - **Average Age**: 37 years
-   - **Average Salary**: $6.3K
+   - **Average Salary**: RS 6.3K
    - **Average Tenure**: 6.9 years
 3. **Attrition Breakdown**:
    - **By Education**: 44% (Medical), 35% (Life Sciences), 15% (Technical Degree)
